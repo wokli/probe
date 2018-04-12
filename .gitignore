@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
